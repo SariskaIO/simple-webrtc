@@ -1042,12 +1042,12 @@ Peer.config = {
     {
       urls:  'turn:coturn.sariska.io:443',
       username: "1706814988'2:sariska",
-      password: "5QrV5N1BQ6QHmzfpJMmX9JRII74="
+      credential: "5QrV5N1BQ6QHmzfpJMmX9JRII74="
     },
     {
       urls:  'turn:coturn.sariska.io:443?transport=tcp',
       username: "1706814988'2:sariska",
-      password: "5QrV5N1BQ6QHmzfpJMmX9JRII74="
+      credential: "5QrV5N1BQ6QHmzfpJMmX9JRII74="
     }
   ],
   sdpSemantics: 'unified-plan'

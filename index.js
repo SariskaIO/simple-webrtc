@@ -1037,8 +1037,8 @@ Peer.WEBRTC_SUPPORT = !!getBrowserRTC()
  */
 Peer.config = {
   iceServers: [
-    {urls: 'stun:stun.l.google.com:19302'},
-    { urls: 'stun:coturn.sariska.io:443' },
+    // {urls: 'stun:stun.l.google.com:19302'},
+    // { urls: 'stun:coturn.sariska.io:443' },
     {
       urls:  'turn:coturn.sariska.io:443',
       username: "1761807009:sariska",
